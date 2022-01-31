@@ -1,0 +1,8 @@
+1)play  0
+win 0
+drawn 0
+lose 0
+scored 0
+coincide 0
+goal 0
+point 55

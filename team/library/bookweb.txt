@@ -1,0 +1,17 @@
+<!doctype html>
+<html >
+<head>
+<title>library.com</title>
+<h2 style="font-family:Colonna MT;color:#669900" align="center">ASTUMSJ Library Books</h2></head>
+<div id="menu" align="center"><font face="arial" size=3 color="#993300">
+<a href="homepage.html">Home</a>|<a href="webtable.html">Table</a>|<a href="result.html">Result</a>|<a href="score.html">Score</a>|<a href="video.html">Video</a></font></div>
+<body bgcolor="009900"  background="image.jpg">
+<font face="Tekton Pro Ext" size="5" color="#990000">
+<pre>
+No			Title	Code	Author	Pub.year	Page	Sale date	count
+2	3	6	5	4	7	1
+4	5	2	1	4	7	3
+7	8	5	2	6	5	1
+dertogada	006	yismeake	2001	145	2/1/2005	1
+life	007	good	2001	452	1/4/2008	1
+</pre></font></body></html>

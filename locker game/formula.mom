@@ -1,0 +1,1519 @@
+<?xml version="1.0"?>
+<mathomir>
+<obj type="1" X="53" Y="66" page_w="1165" page_h="1650" numbering="0">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="1" tx="w" fnt="22" />
+		<elm tp="1" tx="h" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="k" fnt="22" />
+		<elm tp="2" stp="=" />
+		<elm tp="1" tx="n" fnt="22" />
+		<elm tp="1" tx="u" fnt="22" />
+		<elm tp="1" tx="m" fnt="22" />
+		<elm tp="1" tx="b" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="f" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="l" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="c" fnt="22" />
+		<elm tp="1" tx="k" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+	</expr>
+</obj>
+<obj type="1" X="150" Y="94" lock="1">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="2" stp="=" />
+		<elm tp="1" tx="d" fnt="22" />
+		<elm tp="1" tx="i" fnt="22" />
+		<elm tp="1" tx="v" fnt="22" />
+		<elm tp="1" tx="i" fnt="22" />
+		<elm tp="1" tx="d" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="5"  Exp1="cont">
+		<expr fnt_h="100" alig="0" brack="2" b_shape="(" b_height="1" b_data="0">
+			<elm tp="1" tx="o" fnt="22" />
+			<elm tp="1" tx="p" fnt="22" />
+			<elm tp="1" tx="e" fnt="22" />
+			<elm tp="1" tx="n" fnt="22" />
+			<elm tp="2" stp="\09" tablen="1" />
+			<elm tp="1" tx="l" fnt="22" />
+			<elm tp="1" tx="o" fnt="22" />
+			<elm tp="1" tx="c" fnt="22" />
+			<elm tp="1" tx="k" fnt="22" />
+			<elm tp="1" tx="e" fnt="22" />
+			<elm tp="1" tx="r" fnt="22" />
+		</expr>
+		</elm>
+	</expr>
+</obj>
+<obj type="1" X="52" Y="135">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="1" tx="n=" fnt="0000" mth="0" />
+		<elm tp="1" tx="k" fnt="00" mth="0" />
+		<elm tp="2" stp="/" />
+		<elm tp="1" tx="r" fnt="00" mth="0" />
+	</expr>
+</obj>
+<obj type="1" X="71" Y="195">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="1" tx="a" fnt="22" />
+		<elm tp="1" tx="l" fnt="22" />
+		<elm tp="2" stp="=" />
+		<elm tp="1" tx="n" fnt="22" />
+		<elm tp="2" stp="-" />
+		<elm tp="5"  Exp1="cont">
+		<expr fnt_h="100" alig="0" brack="2" b_shape="(" b_height="1" b_data="0">
+			<elm tp="5"  Exp1="cont">
+			<expr fnt_h="100" alig="0" brack="2" b_shape="(" b_height="1" b_data="0">
+				<elm tp="5"  Exp1="cont">
+				<expr fnt_h="100" alig="0" brack="2" b_shape="[" b_height="1" b_data="0">
+					<elm tp="4" stp="fraction" Exp1="upp" Exp2="low">
+					<expr fnt_h="90" alig="0" brack="0">
+						<elm tp="1" tx="n" fnt="22" />
+					</expr>
+					<expr fnt_h="90" alig="0" brack="0">
+						<elm tp="1" tx="4" fnt="00" />
+						<elm tp="1" tx="" fnt="" />
+					</expr>
+					</elm>
+				</expr>
+				</elm>
+				<elm tp="2" stp="+" />
+				<elm tp="5"  Exp1="cont">
+				<expr fnt_h="100" alig="0" brack="3" b_shape="[" b_height="1" b_data="0">
+					<elm tp="4" stp="fraction" Exp1="upp" Exp2="low">
+					<expr fnt_h="90" alig="0" brack="0">
+						<elm tp="1" tx="n" fnt="22" />
+					</expr>
+					<expr fnt_h="90" alig="0" brack="0">
+						<elm tp="1" tx="9" fnt="00" />
+						<elm tp="1" tx="" fnt="" />
+					</expr>
+					</elm>
+				</expr>
+				</elm>
+				<elm tp="2" stp="+" />
+				<elm tp="5"  Exp1="cont">
+				<expr fnt_h="100" alig="0" brack="3" b_shape="[" b_height="1" b_data="0">
+					<elm tp="4" stp="fraction" Exp1="upp" Exp2="low">
+					<expr fnt_h="90" alig="0" brack="0">
+						<elm tp="1" tx="n" fnt="22" />
+					</expr>
+					<expr fnt_h="90" alig="0" brack="0">
+						<elm tp="1" tx="25" fnt="0000" />
+					</expr>
+					</elm>
+				</expr>
+				</elm>
+				<elm tp="2" stp="+" />
+				<elm tp="5"  Exp1="cont">
+				<expr fnt_h="100" alig="0" brack="3" b_shape="[" b_height="1" b_data="0">
+					<elm tp="4" stp="fraction" Exp1="upp" Exp2="low">
+					<expr fnt_h="90" alig="0" brack="0">
+						<elm tp="1" tx="n" fnt="22" />
+					</expr>
+					<expr fnt_h="90" alig="0" brack="0">
+						<elm tp="1" tx="49" fnt="0000" />
+						<elm tp="1" tx="" fnt="" />
+					</expr>
+					</elm>
+				</expr>
+				</elm>
+				<elm tp="2" stp="+" />
+				<elm tp="2" stp="\BC" />
+			</expr>
+			</elm>
+			<elm tp="2" stp="-" />
+			<elm tp="5"  Exp1="cont">
+			<expr fnt_h="100" alig="0" brack="2" b_shape="(" b_height="1" b_data="0">
+				<elm tp="5"  Exp1="cont">
+				<expr fnt_h="100" alig="0" brack="3" b_shape="[" b_height="1" b_data="0">
+					<elm tp="4" stp="fraction" Exp1="upp" Exp2="low">
+					<expr fnt_h="90" alig="0" brack="0">
+						<elm tp="1" tx="n" fnt="22" />
+					</expr>
+					<expr fnt_h="90" alig="0" brack="0">
+						<elm tp="1" tx="36" fnt="0000" />
+					</expr>
+					</elm>
+				</expr>
+				</elm>
+				<elm tp="2" stp="+" />
+				<elm tp="5"  Exp1="cont">
+				<expr fnt_h="100" alig="0" brack="3" b_shape="[" b_height="1" b_data="0">
+					<elm tp="4" stp="fraction" Exp1="upp" Exp2="low">
+					<expr fnt_h="90" alig="0" brack="0">
+						<elm tp="1" tx="n" fnt="22" />
+					</expr>
+					<expr fnt_h="90" alig="0" brack="0">
+						<elm tp="1" tx="100" fnt="000000" />
+						<elm tp="1" tx="" fnt="" />
+					</expr>
+					</elm>
+				</expr>
+				</elm>
+				<elm tp="2" stp="+" />
+				<elm tp="5"  Exp1="cont">
+				<expr fnt_h="100" alig="0" brack="3" b_shape="[" b_height="1" b_data="0">
+					<elm tp="4" stp="fraction" Exp1="upp" Exp2="low">
+					<expr fnt_h="90" alig="0" brack="0">
+						<elm tp="1" tx="n" fnt="22" />
+					</expr>
+					<expr fnt_h="90" alig="0" brack="0">
+						<elm tp="1" tx="" fnt="" />
+						<elm tp="1" tx="225" fnt="000000" />
+					</expr>
+					</elm>
+				</expr>
+				</elm>
+			</expr>
+			</elm>
+		</expr>
+		</elm>
+	</expr>
+</obj>
+<obj type="1" X="92" Y="307">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="5"  Exp1="cont">
+		<expr fnt_h="100" alig="0" brack="2" b_shape="[" b_height="1" b_data="0">
+			<elm tp="1" tx="n" fnt="22" />
+		</expr>
+		</elm>
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="i" fnt="22" />
+		<elm tp="1" tx="s" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="g" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="a" fnt="22" />
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="s" fnt="22" />
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="f" fnt="22" />
+		<elm tp="1" tx="l" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+	</expr>
+</obj>
+<obj type="1" X="102" Y="23">
+	<expr fnt_h="144" alig="0" brack="0">
+		<elm tp="1" tx="f" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="n" fnt="22" />
+		<elm tp="1" tx="l" fnt="22" />
+		<elm tp="1" tx="y" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="1" fnt="00" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="l" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="c" fnt="22" />
+		<elm tp="1" tx="k" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="i" fnt="22" />
+		<elm tp="1" tx="s" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="p" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="n" fnt="22" />
+	</expr>
+</obj>
+<obj type="1" X="134" Y="350">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="1" tx="" fnt="" />
+	</expr>
+</obj>
+<obj type="1" X="347" Y="308">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="1" tx="i" fnt="22" />
+		<elm tp="1" tx="n" fnt="22" />
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="g" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+	</expr>
+</obj>
+<obj type="1" X="207" Y="250">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="7" stp="Sigma" symbol_height="1" limits_aside="0" Exp1="arg">
+		<expr fnt_h="100" alig="0" brack="2">
+			<elm tp="5"  Exp1="cont">
+			<expr fnt_h="100" alig="0" brack="3" b_shape="[" b_height="1" b_data="0">
+				<elm tp="4" stp="fraction" Exp1="upp" Exp2="low">
+				<expr fnt_h="90" alig="0" brack="0">
+					<elm tp="1" tx="n" fnt="22" />
+				</expr>
+				<expr fnt_h="90" alig="0" brack="0">
+					<elm tp="3" Exp1="bas" Exp2="exp">
+					<expr fnt_h="90" alig="0" brack="2">
+						<elm tp="1" tx="m" fnt="22" />
+					</expr>
+					<expr fnt_h="64" alig="0" brack="0">
+						<elm tp="1" tx="2" fnt="00" />
+					</expr>
+					</elm>
+				</expr>
+				</elm>
+			</expr>
+			</elm>
+		</expr>
+		</elm>
+	</expr>
+</obj>
+<obj type="1" X="530" Y="273">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="1" tx="m" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="a" fnt="22" />
+		<elm tp="1" tx="n" fnt="22" />
+		<elm tp="1" tx="d" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="c" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="a" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="d" fnt="22" />
+		<elm tp="1" tx="i" fnt="22" />
+		<elm tp="1" tx="s" fnt="22" />
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="1" tx="n" fnt="22" />
+		<elm tp="1" tx="i" fnt="22" />
+		<elm tp="1" tx="c" fnt="22" />
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="d" fnt="22" />
+		<elm tp="1" tx="d" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="n" fnt="22" />
+		<elm tp="1" tx="u" fnt="22" />
+		<elm tp="1" tx="m" fnt="22" />
+		<elm tp="1" tx="b" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="1" tx="s" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="s" fnt="22" />
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="1" tx="a" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="f" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="m" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="2." fnt="0000" />
+		<elm tp="1" tx="r" fnt="22" />
+	</expr>
+</obj>
+<obj type="1" X="303" Y="249">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="2" stp="+" />
+		<elm tp="7" stp="Sigma" symbol_height="1" limits_aside="0" Exp1="arg">
+		<expr fnt_h="100" alig="0" brack="2">
+			<elm tp="5"  Exp1="cont">
+			<expr fnt_h="100" alig="0" brack="3" b_shape="[" b_height="1" b_data="0">
+				<elm tp="4" stp="fraction" Exp1="upp" Exp2="low">
+				<expr fnt_h="90" alig="0" brack="0">
+					<elm tp="1" tx="n" fnt="22" />
+				</expr>
+				<expr fnt_h="90" alig="0" brack="0">
+					<elm tp="3" Exp1="bas" Exp2="exp">
+					<expr fnt_h="90" alig="0" brack="2">
+						<elm tp="5"  Exp1="cont">
+						<expr fnt_h="90" alig="0" brack="2" b_shape="(" b_height="1" b_data="0">
+							<elm tp="1" tx="m" fnt="22" />
+							<elm tp="2" stp="\D7" />
+							<elm tp="1" tx="c" fnt="22" />
+						</expr>
+						</elm>
+					</expr>
+					<expr fnt_h="64" alig="0" brack="0">
+						<elm tp="1" tx="2" fnt="00" />
+					</expr>
+					</elm>
+				</expr>
+				</elm>
+			</expr>
+			</elm>
+		</expr>
+		</elm>
+	</expr>
+</obj>
+<obj type="1" X="176" Y="249">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="1" tx="n" fnt="22" />
+		<elm tp="2" stp="-" />
+	</expr>
+</obj>
+<obj type="1" X="147" Y="414">
+	<expr fnt_h="173" alig="0" brack="0">
+		<elm tp="1" tx="f" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="2" fnt="00" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="l" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="c" fnt="22" />
+		<elm tp="1" tx="k" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="1" tx="s" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="a" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="p" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="n" fnt="22" />
+	</expr>
+</obj>
+<obj type="1" X="89" Y="468">
+	<expr fnt_h="120" alig="0" brack="0">
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="1" tx="a" fnt="22" />
+		<elm tp="1" tx="l" fnt="22" />
+		<elm tp="2" stp="=" />
+		<elm tp="1" tx="u" fnt="22" />
+		<elm tp="2" stp="+" />
+		<elm tp="1" tx="v" fnt="22" />
+		<elm tp="2" stp="-" />
+		<elm tp="1" tx="h" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+	</expr>
+</obj>
+<obj type="1" X="423" Y="468">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="1" tx="w" fnt="22" />
+		<elm tp="1" tx="h" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="u" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="a" fnt="22" />
+		<elm tp="1" tx="n" fnt="22" />
+		<elm tp="1" tx="d" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="v" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="a" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="1" tx="h" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="1" tx="a" fnt="22" />
+		<elm tp="1" tx="l" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="f" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+	</expr>
+</obj>
+<obj type="1" X="834" Y="463">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="2" stp="\09" tablen="1" />
+	</expr>
+</obj>
+<obj type="1" X="454" Y="508">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="1" tx="i" fnt="22" />
+		<elm tp="1" tx="n" fnt="22" />
+		<elm tp="1" tx="d" fnt="22" />
+		<elm tp="1" tx="i" fnt="22" />
+		<elm tp="1" tx="v" fnt="22" />
+		<elm tp="1" tx="i" fnt="22" />
+		<elm tp="1" tx="d" fnt="22" />
+		<elm tp="1" tx="u" fnt="22" />
+		<elm tp="1" tx="a" fnt="22" />
+		<elm tp="1" tx="l" fnt="22" />
+		<elm tp="1" tx="l" fnt="22" />
+		<elm tp="1" tx="y" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="i" fnt="22" />
+		<elm tp="1" tx="n" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="1" tx="h" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="a" fnt="22" />
+		<elm tp="1" tx="b" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="v" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="f" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="1" tx="m" fnt="22" />
+		<elm tp="1" tx="u" fnt="22" />
+		<elm tp="1" tx="l" fnt="22" />
+		<elm tp="1" tx="a" fnt="22" />
+	</expr>
+</obj>
+<obj type="1" X="98" Y="686">
+	<expr fnt_h="120" alig="0" brack="0">
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+	</expr>
+</obj>
+<obj type="1" X="167" Y="717">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="2" stp="-" />
+		<elm tp="1" tx="2" fnt="00" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="i" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="i" fnt="22" />
+		<elm tp="1" tx="s" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="c" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="m" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="n" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="b" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="1" tx="h" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="l" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="c" fnt="22" />
+		<elm tp="1" tx="k" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="1" tx="s" fnt="22" />
+	</expr>
+</obj>
+<obj type="1" X="183" Y="745">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="1" tx="0" fnt="00" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="i" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="i" fnt="22" />
+		<elm tp="1" tx="s" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="c" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="m" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="i" fnt="22" />
+		<elm tp="1" tx="n" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="1" fnt="00" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="l" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="c" fnt="22" />
+		<elm tp="1" tx="k" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+	</expr>
+</obj>
+<obj type="1" X="220" Y="769">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="1" tx="i" fnt="22" />
+		<elm tp="1" tx="s" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="n" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="c" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="m" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="i" fnt="22" />
+		<elm tp="1" tx="n" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="b" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="1" tx="h" fnt="22" />
+	</expr>
+</obj>
+<obj type="1" X="109" Y="516">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="1" tx="j" fnt="22" />
+		<elm tp="2" stp="=" />
+		<elm tp="1" tx="l" fnt="22" />
+		<elm tp="1" tx="c" fnt="22" />
+		<elm tp="1" tx="m" fnt="22" />
+		<elm tp="5"  Exp1="cont">
+		<expr fnt_h="100" alig="0" brack="2" b_shape="(" b_height="1" b_data="0">
+			<elm tp="1" tx="a" fnt="22" />
+			<elm tp="2" stp="," />
+			<elm tp="1" tx="b" fnt="22" />
+		</expr>
+		</elm>
+		<elm tp="2" stp="\09" tablen="1" />
+	</expr>
+</obj>
+<obj type="1" X="477" Y="532">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="1" tx="a" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="a" fnt="22" />
+		<elm tp="1" tx="n" fnt="22" />
+		<elm tp="1" tx="d" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="b" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="a" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="1" tx="h" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="p" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="n" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="l" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="c" fnt="22" />
+		<elm tp="1" tx="k" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="1" tx="s" fnt="22" />
+	</expr>
+</obj>
+<obj type="1" X="127" Y="556">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="2" stp="=" />
+		<elm tp="1" tx="m" fnt="22" />
+		<elm tp="1" tx="u" fnt="22" />
+		<elm tp="1" tx="l" fnt="22" />
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="1" tx="i" fnt="22" />
+		<elm tp="1" tx="p" fnt="22" />
+		<elm tp="1" tx="l" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="f" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="j" fnt="22" />
+	</expr>
+</obj>
+<obj type="1" X="120" Y="588">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="4" stp="fraction" Exp1="upp" Exp2="low">
+		<expr fnt_h="90" alig="0" brack="0">
+			<elm tp="1" tx="e" fnt="22" />
+		</expr>
+		<expr fnt_h="90" alig="0" brack="0">
+			<elm tp="1" tx="a" fnt="22" />
+		</expr>
+		</elm>
+		<elm tp="2" stp="=" />
+		<elm tp="1" tx="k" fnt="22" />
+		<elm tp="3" Exp1="bas" Exp2="exp">
+		<expr fnt_h="100" alig="0" brack="2">
+			<elm tp="1" tx="m" fnt="22" />
+		</expr>
+		<expr fnt_h="71" alig="0" brack="0">
+			<elm tp="1" tx="2" fnt="00" />
+		</expr>
+		</elm>
+	</expr>
+</obj>
+<obj type="1" X="229" Y="587">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="1" tx="h" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="p" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="1" tx="s" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="n" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="i" fnt="22" />
+		<elm tp="1" tx="s" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="n" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="c" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="m" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+	</expr>
+</obj>
+<obj type="1" X="81" Y="594">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="1" tx="i" fnt="22" />
+		<elm tp="1" tx="f" fnt="22" />
+	</expr>
+</obj>
+<obj type="1" X="283" Y="586">
+	<expr fnt_h="100" stxt="1" alig="0" brack="0">
+		<elm tp="2" stp="\09" tablen="1" />
+	</expr>
+</obj>
+<obj type="1" X="334" Y="609">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+	</expr>
+</obj>
+<obj type="1" X="276" Y="611">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="2" stp="\09" tablen="1" />
+	</expr>
+</obj>
+<obj type="1" X="580" Y="588">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="1" tx="w" fnt="22" />
+		<elm tp="1" tx="h" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="m" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="i" fnt="22" />
+		<elm tp="1" tx="s" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="d" fnt="22" />
+		<elm tp="1" tx="d" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="n" fnt="22" />
+		<elm tp="1" tx="u" fnt="22" />
+		<elm tp="1" tx="m" fnt="22" />
+		<elm tp="1" tx="b" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="g" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="a" fnt="22" />
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="1" tx="h" fnt="22" />
+		<elm tp="1" tx="a" fnt="22" />
+		<elm tp="1" tx="n" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="1" fnt="00" />
+	</expr>
+</obj>
+<obj type="1" X="663" Y="613">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="1" tx="a" fnt="22" />
+		<elm tp="1" tx="n" fnt="22" />
+		<elm tp="1" tx="d" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="k" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="i" fnt="22" />
+		<elm tp="1" tx="s" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="n" fnt="22" />
+		<elm tp="1" tx="a" fnt="22" />
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="1" tx="u" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="1" tx="a" fnt="22" />
+		<elm tp="1" tx="l" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="n" fnt="22" />
+		<elm tp="1" tx="u" fnt="22" />
+		<elm tp="1" tx="m" fnt="22" />
+		<elm tp="1" tx="b" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+	</expr>
+</obj>
+<obj type="1" X="238" Y="630">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="l" fnt="22" />
+		<elm tp="1" tx="s" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="i" fnt="22" />
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="i" fnt="22" />
+		<elm tp="1" tx="s" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="n" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="c" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="m" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+	</expr>
+</obj>
+<obj type="1" X="238" Y="662">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="1" tx="h" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="s" fnt="22" />
+		<elm tp="1" tx="a" fnt="22" />
+		<elm tp="1" tx="m" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="s" fnt="22" />
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="p" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="f" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="b" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="1" tx="h" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="n" fnt="22" />
+	</expr>
+</obj>
+<obj type="1" X="117" Y="755">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="1" tx="l" fnt="22" />
+		<elm tp="2" stp="=" />
+	</expr>
+</obj>
+<obj type="1" X="117" Y="831">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="1" tx="h" fnt="22" />
+		<elm tp="2" stp="=" />
+		<elm tp="7" stp="Sigma" symbol_height="1" limits_aside="0" Exp1="arg">
+		<expr fnt_h="100" alig="0" brack="2">
+			<elm tp="1" tx="l" fnt="22" />
+		</expr>
+		</elm>
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="f" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="a" fnt="22" />
+		<elm tp="1" tx="l" fnt="22" />
+		<elm tp="1" tx="l" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="m" fnt="22" />
+		<elm tp="1" tx="u" fnt="22" />
+		<elm tp="1" tx="l" fnt="22" />
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="1" tx="i" fnt="22" />
+		<elm tp="1" tx="p" fnt="22" />
+		<elm tp="1" tx="l" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="s" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="u" fnt="22" />
+		<elm tp="1" tx="p" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="n" fnt="22" />
+		<elm tp="1" tx="u" fnt="22" />
+		<elm tp="1" tx="m" fnt="22" />
+		<elm tp="1" tx="b" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="f" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="l" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="c" fnt="22" />
+		<elm tp="1" tx="k" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="1" tx="s" fnt="22" />
+	</expr>
+</obj>
+<obj type="1" X="183" Y="773">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="1" tx="0" fnt="00" />
+	</expr>
+</obj>
+<obj type="1" X="153" Y="874">
+	<expr fnt_h="208" alig="0" brack="0">
+		<elm tp="1" tx="f" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="3" fnt="00" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="l" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="c" fnt="22" />
+		<elm tp="1" tx="k" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="1" tx="s" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="a" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="p" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="n" fnt="22" />
+	</expr>
+</obj>
+<obj type="1" X="167" Y="925">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="1" tx="a" fnt="22" />
+		<elm tp="1" tx="l" fnt="22" />
+		<elm tp="2" stp="=" />
+		<elm tp="1" tx="u" fnt="22" />
+		<elm tp="2" stp="+" />
+		<elm tp="1" tx="v" fnt="22" />
+		<elm tp="2" stp="+" />
+		<elm tp="1" tx="w" fnt="22" />
+		<elm tp="2" stp="-" />
+		<elm tp="1" tx="h" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="-" />
+		<elm tp="1" tx="f" fnt="22" />
+	</expr>
+</obj>
+<obj type="1" X="167" Y="960">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="1" tx="w" fnt="22" />
+		<elm tp="1" tx="h" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="u" fnt="22" />
+		<elm tp="2" stp="," />
+		<elm tp="1" tx="v" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="a" fnt="22" />
+		<elm tp="1" tx="n" fnt="22" />
+		<elm tp="1" tx="d" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="w" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="a" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="1" tx="h" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="1" tx="a" fnt="22" />
+		<elm tp="1" tx="l" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="f" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+	</expr>
+</obj>
+<obj type="1" X="167" Y="1050">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="2" stp="-" />
+	</expr>
+</obj>
+<obj type="1" X="167" Y="995">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="1" tx="i" fnt="22" />
+		<elm tp="1" tx="n" fnt="22" />
+		<elm tp="1" tx="d" fnt="22" />
+		<elm tp="1" tx="i" fnt="22" />
+		<elm tp="1" tx="v" fnt="22" />
+		<elm tp="1" tx="i" fnt="22" />
+		<elm tp="1" tx="d" fnt="22" />
+		<elm tp="1" tx="u" fnt="22" />
+		<elm tp="1" tx="a" fnt="22" />
+		<elm tp="1" tx="l" fnt="22" />
+		<elm tp="1" tx="l" fnt="22" />
+		<elm tp="1" tx="y" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="i" fnt="22" />
+		<elm tp="1" tx="n" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="1" tx="h" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="a" fnt="22" />
+		<elm tp="1" tx="b" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="v" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="f" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="1" tx="m" fnt="22" />
+		<elm tp="1" tx="u" fnt="22" />
+		<elm tp="1" tx="l" fnt="22" />
+		<elm tp="1" tx="a" fnt="22" />
+	</expr>
+</obj>
+<obj type="1" X="167" Y="1028">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="1" tx="a" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="," />
+		<elm tp="1" tx="b" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="a" fnt="22" />
+		<elm tp="1" tx="n" fnt="22" />
+		<elm tp="1" tx="d" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="c" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="a" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="1" tx="h" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="p" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="n" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="l" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="c" fnt="22" />
+		<elm tp="1" tx="k" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="1" tx="s" fnt="22" />
+	</expr>
+</obj>
+<obj type="1" X="160" Y="1077">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="1" tx="h" fnt="22" />
+		<elm tp="2" stp="=" />
+		<elm tp="7" stp="Sigma" symbol_height="1" limits_aside="0" Exp1="arg">
+		<expr fnt_h="100" alig="0" brack="2">
+			<elm tp="1" tx="l" fnt="22" />
+		</expr>
+		</elm>
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="f" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="a" fnt="22" />
+		<elm tp="1" tx="l" fnt="22" />
+		<elm tp="1" tx="l" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="m" fnt="22" />
+		<elm tp="1" tx="u" fnt="22" />
+		<elm tp="1" tx="l" fnt="22" />
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="1" tx="i" fnt="22" />
+		<elm tp="1" tx="p" fnt="22" />
+		<elm tp="1" tx="l" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="s" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="u" fnt="22" />
+		<elm tp="1" tx="p" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="2" fnt="00" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="n" fnt="22" />
+		<elm tp="1" tx="u" fnt="22" />
+		<elm tp="1" tx="m" fnt="22" />
+		<elm tp="1" tx="b" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="f" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="l" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="c" fnt="22" />
+		<elm tp="1" tx="k" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="1" tx="s" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="b" fnt="22" />
+		<elm tp="1" tx="u" fnt="22" />
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="n" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+	</expr>
+</obj>
+<obj type="1" X="160" Y="1117">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="1" tx="f" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="5"  Exp1="cont">
+		<expr fnt_h="100" alig="0" brack="2" b_shape="(" b_height="1" b_data="0">
+			<elm tp="1" tx="a" fnt="22" />
+			<elm tp="2" stp="," />
+			<elm tp="1" tx="b" fnt="22" />
+		</expr>
+		</elm>
+		<elm tp="2" stp="," />
+		<elm tp="5"  Exp1="cont">
+		<expr fnt_h="100" alig="0" brack="2" b_shape="(" b_height="1" b_data="0">
+			<elm tp="1" tx="a" fnt="22" />
+			<elm tp="2" stp="," />
+			<elm tp="1" tx="c" fnt="22" />
+		</expr>
+		</elm>
+		<elm tp="2" stp="&" />
+		<elm tp="5"  Exp1="cont">
+		<expr fnt_h="100" alig="0" brack="2" b_shape="(" b_height="1" b_data="0">
+			<elm tp="1" tx="b" fnt="22" />
+			<elm tp="2" stp="," />
+			<elm tp="1" tx="c" fnt="22" />
+		</expr>
+		</elm>
+	</expr>
+</obj>
+<obj type="1" X="850" Y="1075">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="1" tx="h" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="1" tx="h" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+	</expr>
+</obj>
+<obj type="1" X="173" Y="1168">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="1" tx="f" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="i" fnt="22" />
+		<elm tp="1" tx="s" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="2" fnt="00" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="i" fnt="22" />
+		<elm tp="1" tx="f" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="2" fnt="00" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="3" fnt="00" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="l" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="c" fnt="22" />
+		<elm tp="1" tx="k" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="1" tx="s" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="a" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="c" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="m" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+	</expr>
+</obj>
+<obj type="1" X="237" Y="1203">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="1" tx="0" fnt="00" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="i" fnt="22" />
+		<elm tp="1" tx="f" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="1" fnt="00" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="0" fnt="00" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="p" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="1" tx="s" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="n" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="i" fnt="22" />
+		<elm tp="1" tx="s" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="c" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="m" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+	</expr>
+</obj>
+<obj type="1" X="501" Y="1144">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="1" tx="" fnt="" />
+	</expr>
+</obj>
+<obj type="1" X="614" Y="1203">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="1" tx="f" fnt="22" />
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="m" fnt="22" />
+		<elm tp="1" tx="u" fnt="22" />
+		<elm tp="1" tx="l" fnt="22" />
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="1" tx="i" fnt="22" />
+		<elm tp="1" tx="p" fnt="22" />
+		<elm tp="1" tx="l" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+	</expr>
+</obj>
+<obj type="1" X="376" Y="1237">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="1" tx="o" fnt="22" />
+		<elm tp="1" tx="f" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="t" fnt="22" />
+		<elm tp="1" tx="h" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="l" fnt="22" />
+		<elm tp="1" tx="c" fnt="22" />
+		<elm tp="1" tx="m" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="n" fnt="22" />
+		<elm tp="1" tx="u" fnt="22" />
+		<elm tp="1" tx="m" fnt="22" />
+		<elm tp="1" tx="b" fnt="22" />
+		<elm tp="1" tx="e" fnt="22" />
+		<elm tp="1" tx="r" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="a" fnt="22" />
+		<elm tp="2" stp="," />
+		<elm tp="1" tx="b" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="a" fnt="22" />
+		<elm tp="1" tx="n" fnt="22" />
+		<elm tp="1" tx="d" fnt="22" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="2" stp="\09" tablen="1" />
+		<elm tp="1" tx="c" fnt="22" />
+	</expr>
+</obj>
+<obj type="1" X="499" Y="1397">
+	<expr fnt_h="100" alig="0" brack="0">
+		<elm tp="1" tx="" fnt="" />
+	</expr>
+</obj>
+</mathomir>

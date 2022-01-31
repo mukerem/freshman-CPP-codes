@@ -1,0 +1,17 @@
+*.mp4
+*.mp3
+*.html
+*.js
+*.css
+*.exe
+*.o
+bin/
+obj/
+*.cbp
+*.layout
+*.depend
+.settings/
+*.project
+*.cproject
+*.bak
+/pages
